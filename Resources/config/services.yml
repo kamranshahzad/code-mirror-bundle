@@ -1,0 +1,10 @@
+
+parameters:
+ code_mirror.form: Kamran\CodeMirrorBundle\Form\Type\CodeMirrorType
+
+services:
+ 
+ code_mirror.form.type:
+   class: %code_mirror.form%
+   tags:
+    - { name: form.type, alias: codemirror }

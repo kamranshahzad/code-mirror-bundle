@@ -1,0 +1,10 @@
+"name": "code-mirror-bundle",
+"description": "Symfony2 CodeMirror Bundle",
+"homepage": "https://github.com/kamranshahzad/code-mirror-bundle",
+"license": "WTFPL",
+"authors": [
+    {
+        "name": "The TestLib Team",
+        "homepage": "https://github.com/kamranshahzad/code-mirror-bundle/graphs/contributors"
+    }
+]
